@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/a4677f05-092c-4db0-911c-06474b810086
 Below are the key views of the analytical dashboard:
 
 ### 1. Sales insights & Growth Analysis
-![Image](https://github.com/user-attachments/assets/372a565f-c728-4c4e-b443-76b44c4ec947)
+<img width="1443" height="808" alt="Image" src="https://github.com/user-attachments/assets/190973ff-b8c8-4469-9fc5-c7b799bb1fe6" />
 
 *Analyzes $639K total sales and key growth metrics.*
 
