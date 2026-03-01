@@ -34,7 +34,7 @@ Below are the key views of the analytical dashboard:
 *Analyzes $639K total sales and key growth metrics.*
 
 ### 2. Market penetration & sales analysis
-![Image](https://github.com/user-attachments/assets/322c9e4f-2e03-4cd2-98f3-c9313cc339fe)
+<img width="1443" height="809" alt="Image" src="https://github.com/user-attachments/assets/d67f2e89-3927-4b84-b17d-67c72ffdfc38" />
 
 *Evaluation of restaurant ratings and delivery efficiency across cities.*
 
