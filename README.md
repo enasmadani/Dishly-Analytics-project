@@ -16,7 +16,7 @@ This project was completed through effective collaboration, including:
 ---
 
 ## 📽️ Project Demo (Video)
-https://github.com/user-attachments/assets/a4677f05-092c-4db0-911c-06474b810086
+https://github.com/user-attachments/assets/f5e43819-4f3b-4b4b-a8de-098411677ccf
 
 ---
 
